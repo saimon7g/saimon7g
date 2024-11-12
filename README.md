@@ -11,11 +11,11 @@ I am an **undergraduate student** currently in my final semester. I am passionat
 ## Profile Overview
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimon7g&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimon7g&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimon7g&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimon7g&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimon7g&theme=dracula&utcOffset=6)
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimon7g&theme=dracula)
+  ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimon7g&theme=dracula)
+  ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimon7g&theme=dracula)
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimon7g&theme=dracula)
+  ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimon7g&theme=dracula&utcOffset=6)
 </div>
 
 ## Connect with me:
